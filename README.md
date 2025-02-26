@@ -1,6 +1,6 @@
 # Word Analyzer Microservice
 
-This README outlines how to **programmatically request and receive data** from Microservice A. It defines the input/output behavior and provides a **UML sequence diagram** to illustrate the process.
+This README outlines how to **programmatically request and receive data** from Microservice A: Word Analyzer. It defines the input/output behavior and provides a **UML sequence diagram** to illustrate the process.
 
 ## Requesting Data from Word Analyzer
 
